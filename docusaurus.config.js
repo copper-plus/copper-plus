@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon/favicon.ico',
-  organizationName: 'LegatorSolution', // Usually your GitHub org/user name.
+  organizationName: 'copper-plus', // Usually your GitHub org/user name.
   projectName: 'copper-plus', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -67,7 +67,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/legatorsolutions/copper-plus',
+              href: 'https://github.com/copper-plus/copper-plus',
             },
           ],
         },
