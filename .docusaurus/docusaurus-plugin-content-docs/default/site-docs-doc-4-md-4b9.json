@@ -2,8 +2,7 @@
   "unversionedId": "doc4",
   "id": "doc4",
   "isDocsHomePage": false,
-  "title": "doc4",
-  "description": "",
+  "title": "Legator Solutions",
   "source": "@site/docs/doc4.md",
   "slug": "/doc4",
   "permalink": "/docs/doc4",
@@ -11,7 +10,7 @@
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "This is Document Number 3",
+    "title": "Next step",
     "permalink": "/docs/doc3"
   }
 }

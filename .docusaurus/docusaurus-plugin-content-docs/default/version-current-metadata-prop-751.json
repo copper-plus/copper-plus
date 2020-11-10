@@ -28,7 +28,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Powered by MDX",
+            "label": "copper network",
             "href": "/docs/mdx"
           }
         ]
@@ -40,7 +40,7 @@
         "items": [
           {
             "type": "link",
-            "label": "This is Document Number 3",
+            "label": "Next step",
             "href": "/docs/doc3"
           }
         ]
@@ -52,7 +52,7 @@
         "items": [
           {
             "type": "link",
-            "label": "doc4",
+            "label": "Legator Solutions",
             "href": "/docs/doc4"
           }
         ]

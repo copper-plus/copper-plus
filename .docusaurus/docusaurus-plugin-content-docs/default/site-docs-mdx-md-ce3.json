@@ -2,8 +2,7 @@
   "unversionedId": "mdx",
   "id": "mdx",
   "isDocsHomePage": false,
-  "title": "Powered by MDX",
-  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "title": "copper network",
   "source": "@site/docs/mdx.md",
   "slug": "/mdx",
   "permalink": "/docs/mdx",
@@ -15,7 +14,7 @@
     "permalink": "/docs/doc2"
   },
   "next": {
-    "title": "This is Document Number 3",
+    "title": "Next step",
     "permalink": "/docs/doc3"
   }
 }
