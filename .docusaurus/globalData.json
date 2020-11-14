@@ -19,10 +19,6 @@
               "path": "/docs/doc2"
             },
             {
-              "id": "doc3",
-              "path": "/docs/doc3"
-            },
-            {
               "id": "mdx",
               "path": "/docs/mdx"
             }
