@@ -45,7 +45,7 @@ export default {
           "items": [
             {
               "label": "Facebook",
-              "href": "#"
+              "href": "https://www.facebook.com/copperplus.srilanka"
             },
             {
               "label": "Twitter",

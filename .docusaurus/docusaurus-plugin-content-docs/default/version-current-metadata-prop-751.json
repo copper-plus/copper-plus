@@ -53,7 +53,7 @@
           {
             "type": "link",
             "label": "Legator Solutions",
-            "href": "/docs/doc4"
+            "href": "https://LegatorSolutions.com"
           }
         ]
       }
@@ -63,7 +63,6 @@
     "/docs/": "someSidebar",
     "/docs/doc2": "someSidebar",
     "/docs/doc3": "someSidebar",
-    "/docs/doc4": "someSidebar",
     "/docs/mdx": "someSidebar"
   }
 }

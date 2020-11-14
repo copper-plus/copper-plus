@@ -23,7 +23,6 @@ export default {
   'content---docs-b-2-f-393': [() => import(/* webpackChunkName: 'content---docs-b-2-f-393' */ "@site/docs/doc1.md"), "@site/docs/doc1.md", require.resolveWeak("@site/docs/doc1.md")],
   'content---docs-doc-2-df-3-eaa': [() => import(/* webpackChunkName: 'content---docs-doc-2-df-3-eaa' */ "@site/docs/doc2.md"), "@site/docs/doc2.md", require.resolveWeak("@site/docs/doc2.md")],
   'content---docs-doc-3616-40c': [() => import(/* webpackChunkName: 'content---docs-doc-3616-40c' */ "@site/docs/doc3.md"), "@site/docs/doc3.md", require.resolveWeak("@site/docs/doc3.md")],
-  'content---docs-doc-44-b-9-e23': [() => import(/* webpackChunkName: 'content---docs-doc-44-b-9-e23' */ "@site/docs/doc4.md"), "@site/docs/doc4.md", require.resolveWeak("@site/docs/doc4.md")],
   'content---docs-mdxce-3-7d1': [() => import(/* webpackChunkName: 'content---docs-mdxce-3-7d1' */ "@site/docs/mdx.md"), "@site/docs/mdx.md", require.resolveWeak("@site/docs/mdx.md")],
   'metadata---blog-tags-docusaurusa-80-728': [() => import(/* webpackChunkName: 'metadata---blog-tags-docusaurusa-80-728' */ "~blog/default/blog-tags-docusaurus-0e0.json"), "~blog/default/blog-tags-docusaurus-0e0.json", require.resolveWeak("~blog/default/blog-tags-docusaurus-0e0.json")],
   'metadata---blog-tags-facebook-031-c52': [() => import(/* webpackChunkName: 'metadata---blog-tags-facebook-031-c52' */ "~blog/default/blog-tags-facebook-038.json"), "~blog/default/blog-tags-facebook-038.json", require.resolveWeak("~blog/default/blog-tags-facebook-038.json")],

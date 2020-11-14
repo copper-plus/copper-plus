@@ -7,10 +7,5 @@
   "slug": "/doc4",
   "permalink": "/docs/doc4",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc4.md",
-  "version": "current",
-  "sidebar": "someSidebar",
-  "previous": {
-    "title": "Next step",
-    "permalink": "/docs/doc3"
-  }
+  "version": "current"
 }
