@@ -21,7 +21,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        // {to: 'blog', label: 'Blog', position: 'left'},
+        //{to: 'blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
@@ -84,13 +84,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/copper-plus/copper-plus/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/copper-plus/copper-plus/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

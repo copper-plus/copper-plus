@@ -88,11 +88,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/tharindu/Desktop/copper-plus/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/copper-plus/copper-plus/tree/master/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/copper-plus/copper-plus/tree/master/"
         },
         "theme": {
           "customCss": "/home/tharindu/Desktop/copper-plus/src/css/custom.css"

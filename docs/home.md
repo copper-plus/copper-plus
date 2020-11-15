@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: home
 title: Copper-plus
 sidebar_label: Copper-plus
 slug: /

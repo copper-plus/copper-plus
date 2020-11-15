@@ -8,19 +8,23 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "home",
           "docs": [
             {
-              "id": "doc1",
+              "id": "home",
               "path": "/docs/"
             },
             {
-              "id": "doc2",
-              "path": "/docs/doc2"
+              "id": "network",
+              "path": "/docs/network"
             },
             {
-              "id": "mdx",
-              "path": "/docs/mdx"
+              "id": "prices",
+              "path": "/docs/prices"
+            },
+            {
+              "id": "vision",
+              "path": "/docs/vision"
             }
           ]
         }

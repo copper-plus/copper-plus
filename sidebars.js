@@ -1,8 +1,8 @@
 module.exports = {
   someSidebar: {
-    Introduction: ['doc1', 'doc2'],
-    Network: ['mdx'],
-    Contact: [
+    Introduction: ['home', 'vision'],
+    Network: ['network'],
+    Contact: ['prices',
     {
       type: 'link',
       label: 'Legator Solutions', // The label that should be displayed (string).

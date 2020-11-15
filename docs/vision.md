@@ -1,0 +1,4 @@
+---
+id: vision
+title: Vision
+---

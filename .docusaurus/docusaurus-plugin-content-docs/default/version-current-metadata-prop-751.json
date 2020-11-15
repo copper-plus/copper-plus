@@ -16,8 +16,8 @@
           },
           {
             "type": "link",
-            "label": "Technical Overview",
-            "href": "/docs/doc2"
+            "label": "Vision",
+            "href": "/docs/vision"
           }
         ]
       },
@@ -29,7 +29,7 @@
           {
             "type": "link",
             "label": "copper network",
-            "href": "/docs/mdx"
+            "href": "/docs/network"
           }
         ]
       },
@@ -38,6 +38,11 @@
         "type": "category",
         "label": "Contact",
         "items": [
+          {
+            "type": "link",
+            "label": "Prices",
+            "href": "/docs/prices"
+          },
           {
             "type": "link",
             "label": "Legator Solutions",
@@ -49,7 +54,8 @@
   },
   "permalinkToSidebar": {
     "/docs/": "someSidebar",
-    "/docs/doc2": "someSidebar",
-    "/docs/mdx": "someSidebar"
+    "/docs/network": "someSidebar",
+    "/docs/prices": "someSidebar",
+    "/docs/vision": "someSidebar"
   }
 }

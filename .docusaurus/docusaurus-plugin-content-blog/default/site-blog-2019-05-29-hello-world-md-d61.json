@@ -20,9 +20,5 @@
   "prevItem": {
     "title": "Welcome",
     "permalink": "/blog/welcome"
-  },
-  "nextItem": {
-    "title": "Hola",
-    "permalink": "/blog/hola"
   }
 }
