@@ -6,7 +6,7 @@ slug: /
 ---
  **Open, Connected and Decentralized** commodity maket based on a social network. 
 
-![img](../static/img/logo.svg)
+![img](../static/img/logo.svg.png)
 
 Copper-plus project came up with the intention of improve local commodity market by introducing an experimental social network type technical solutions.
 
